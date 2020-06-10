@@ -1,7 +1,7 @@
-# Bem-Vindo ao APP COLETA
+# Bem-Vindo ao APP ECOLETA
 
-Este é o **APP Coleta**, um sistema construído para unir empresas ecologicamente responsáveis com pessoas que querem colaborar com a coleta de lixo ecológica.
-Foi desenvolvido durante a **Next Level Week**, uma semana da [Rocket Seat](https://rocketseat.com.br/) focada em React, JavaScript, NODE.js e TypeScript, além de algumas bibliotecas para o React, como a Leaflet que possibilita a utilização de Mapas interativos (Semelhante ao Google Maps)
+Este é o **APP EColeta**, um sistema construído para unir empresas ecologicamente responsáveis com pessoas que querem colaborar com a coleta ecológica de Lixo.
+Foi desenvolvido durante a **Next Level Week**, uma semana da [Rocket Seat](https://rocketseat.com.br/) focada em React, JavaScript, NODE.js e TypeScript, além de algumas bibliotecas para o React, como a Leaflet que possibilita a utilização de Mapas interativos (Semelhante ao Google Maps).
 
 ## Front-End
 O Front-End foi desenvolvido em React, JavaScript e TypeScript e é claro o bom e velho HTML e CSS.
@@ -29,7 +29,7 @@ O Mobile foi desenvolvido em React Native e utilizando a ferramenta EXPO.
 
 Utilize o comando `npm start` na pasta `mobile`para iniciar o ambiente Mobile.
 
-Página Inicial para buscar pontos de coleta por Endereço (Cidade e Estado)
+Página Inicial para buscar Pontos de Coleta por Endereço (Cidade e Estado)
 
 ![Página Inicial](https://github.com/G-Ataide/app-coleta/blob/master/imgs/mobile/1.png?raw=true "Página Inicial")
 
@@ -37,6 +37,6 @@ Página Secundária, mostrando a localização real de cada ponto de coleta, uti
 
 ![Página Secundária](https://github.com/G-Ataide/app-coleta/blob/master/imgs/mobile/2.png?raw=true "Página Secundária")
 
-Clicando na foto do Ponto de Coleta, somos redirecionados a página de detalhes do ponto de coleta, com Foto, Descrição, Endereço e Botões para fazer contato via WhatsApp e E-mail.
+Clicando na foto do Ponto de Coleta, somos redirecionados a página de detalhes do Ponto de Coleta, com Foto, Descrição, Endereço e Botões para fazer contato via WhatsApp e E-mail.
 
 ![Página Informações](https://github.com/G-Ataide/app-coleta/blob/master/imgs/mobile/3.png?raw=true "Página Informações")
